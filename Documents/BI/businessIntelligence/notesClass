@@ -8,4 +8,5 @@ Asimismo, datos que comparten cierta condición (como pueden ser los fumadores) 
 #---------------------
 Actividad 2
 
-
+En el ejemplo creado, los colores en celda se usan para distinguir grupos de celdas; por una lado los nombres de los campos (a su vez, inmovilizados), los nombres y apellidos en color gris oscuro, las carreras (tienden a repetirse) sin color de relleno, y finalmente los clubes con colores icónicos correspondientes a estos.
+El color del texto se modifica para lograr mejor contraste y facilitar la lectura.
