@@ -15,4 +15,52 @@ Datos sensibles: datos personales que denoten etnia, raza, orientación sexual, 
 
 Archivo, registro, banco o bases de datos (a partir de ahora se usará bases de datos como término global): grupo de datos organizados a fin de disponerlos para su tratamiento, independientemente del régimen de formación, almacenamiento, organización o acceso.
 
+Tratamiento de datos: cualquier operación sistemática de recolección, gestión o consulta de datos personales, incluyendo la cesión a terceros por medios apropiados.
+
+Responsable de base de datos: persona (desde ahora se deja inmplícito que puede tratarse de persona física o jurídica, pública o privada) que asume titularidad de la base de datos.
+
+Titular de datos: persona con domicilio legal, delegaciones o sucursales en el país cuyos datos son objeto de tratamiento.
+
+Usuario de datos: persona que realice tratamiento de bases de datos propias o en conexión con estas.
+
+Datos informatizados: datos personales sometidos a tratamiento.
+
+Disociación de datos: tratamiento de datos que resulta en información no adjudicable o asociable a personas determinadas.
+
+#-------------------
+Licitud y consentimiento
+
+Para que la formación de bases de datos sea lícita deben ser inscriptas de forma apropiada, siempre respetando todo parámetro legal y moral preestablecido.
+
+Los datos personales a recolectar deben hallarse dentro de una serie de parámetros, a decir:
+-Todo dato recolectado para su tratamiento debe ser cierto, adecuado, pertinente al proceso y no debe exceder el alcance de este.
+-La recolección debe hacerse de forma leal, sin engaños ni fraudes.
+-El uso de los datos queda restringido a la finalidad con la que fueron recolectados.
+-Los datos deben ser actualizables, para asegurar su exactitud.
+-Ante datos inexactos o incompletos se debe suprimimr, sustituir o completar (según corresponda) al tomarse conocimiento de la situación.
+-El almacenamiento debe ser configurado para resguardar el derecho a acceso por parte del titular de los datos.
+-Al finiquitar la necesidad o incunvencia de los datos en el tratamiento estos deben ser destruidos.
+
+En el artículo 5 se declara la obligatoriedad del consentimiento y sus características, véase:
+-El consentimiento debe ser dado por el titular de forma libre, informada y expresa; dejándose constancia por escrito o equivalente. Cuando el consentimiento se da en el contexto de otras declaraciones, se debe destacar y presentar de forma expresa.
+-No es necesario el consentimiento solo en circunstancias específicas, a decir:
+**Cuando la recolección de datos se hace desde una fuente de acceso público.
+**En el caso en que la finalidad surge de una obligación legal o en el ejercicio de las facultades propias de los poderes del Estado.
+**Para listas que se limiten a nombres, fecha de nacimiento, dirección, DNI, CUIL/CUIT y ocupación.
+**Si los datos devienen de una relación contractual, profesional o científica del titular y estos resultan necesarios para el cumplimiento de las obligaciones inherentes.
+**En operaciones financieras y de entidades de información que reciban los datos de sus clientes (dentro de lo estipulado por la ley Nº 21526 para entidades financieras).
+
+Para que el consentimiento puede ser dado de manera informada, durante la recepción de los datos, el titular debe ser instruido clara y expresamente sobre:
+-La finalidad del tratamiento de los mismos, posibles destinatarios o sus tipos.
+-La existencia de bases de datos, junto con la identidad y domicilio del responsable.
+-El carácter obligatorio o facultativo (opcional) de las respuestas al cuestionario.
+-Las consecuencias de proporcionar datos, de negarse, o de proveer datos inexactos.
+-La posibilidades de hacer uso de su derecho a solicitar acceso, rectificación o suspensión de sus datos.
+
+#-----------------
+Diferenciación por tipo de datos
+
+Los datos sensibles no pueden caracterizarse como obligatorios en ningún caso. Además, pueden ser solicitados cuando la finalidad es de interés general o posee una utilidad estadística/científica.
+Queda también prohibido la creación de bases de datos que revele datos sensibles (de forma explícita o indirecta), solo pueden existir registros internos de miembros generados por organizaciones pertinentes (como la iglesia católica o los sindicatos).
+
 
