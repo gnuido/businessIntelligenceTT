@@ -104,3 +104,80 @@ En tercer lugar, todo titular tiene derecho a solcitar que datos equívocos, inc
 Durante el proceso de rectificación el archivo debe ser bloqueado o debe ser acompañado por una cosigna que atestigüe esta situación. Si la base de datos ya ha sido cedida, debe existir una notificación al cesionario para que este replique la rectificación o supresión de la información.
 La acción correctiva puede ser rechazada cuando implica una perjuicio a los derechos e intereses de un tercero o en el caso de existir una obligación legal de preservar esos datos en cuestión. También, llegado el caso, se puede denegar en casos donde se comprometiesen intereses de defensa y protección Nacional, así como de orden o seguridad públicos.
 
+De forma particular, el acceso a la información no puede ser negada aún en los casos antes estipulados si se destinan a la defensa de la persona en cuestión durante un proceso legal. Tampoco es posible basarse en el tratamiento informático de los datos almacenados para llevar a cabo un juicio de valor sobre actos propios de la conducta humana.
+
+#----------------------
+Usuarios y responsables de bases de datos
+
+Las bases de datos destinados a proporcionar informes debe ser inscriptos en el Registro del organismo de contralor vigente. Estas inscripciones deben contener:
+-Nombre y domicilio del responseable.
+-Características y finalidad de la base de datos.
+-Naturaleza de los datos personales contenidos.
+-Método de recolección y actualización de los datos.
+-Destino de los datos y presonas a las que se pueden transmitir.
+-Modo de interrelación de la información registrada.
+-Garantías de seguridad de datos, con el detalle de categorías de personas con acceso al tratamiento.
+-Tiempo preestablecido de conservación de datos.
+-Forma y condiciones de acceso a los datos por parte de las personas que resulten titulares de estos, además de los procedimientos a adoptar para su rectificación y actualización.
+
+#---------------------
+Bases de datos púbicas
+
+Las normas referidas a creación, modificación o suspesión de bases de datos de organismos púbicos deben hacerse mediante disposiciones generales y procedimientos para su destrucción, a publicar en el Boletín Oficial de la Nación.
+Estas disposiciones deben incluir, sin falta:
+-Características y finalidad del registro.
+-Personas de las cuales se pretende obtener datos, y el carácter obligatorio o facultativo en el suministro de estos.
+-Procedimientos a aplicar para la obtención y actualización de datos.
+-Estructura básica del archivo, con la descripción de la naturaleza de los datos contenidos.
+-Cesiones, transferencias o interconexiones previstas.
+-Organos responsables del archivo, precisando dependencia jerárquica.
+-Las oficinas ante las que se pueden iniciar reclamos en ejercicio de derecho de titular.
+
+#-----------------
+Control
+
+Al órgano creado para el control del régimen de datos se le atribuyen las siguientes funciones:
+-Asistir y asesorar personas que requieran información sobre los alcances de esta ley y los medios legales para defender los derechos que esta garantiza.
+-Dictar normas y reglamentaciones que deban observarse en el desarrollo de las actividades vinculadas.
+-Censar las bases de datos alcanzadas y registrar permanentemente los mismos.
+-Controlar la supervisión de la integridad y seguridad de los datos en las distintas bases de datos; pudiendo recibir autorización judicial para acceder a bases de datos, equipos, locales o programas empleados en tratamientos de datos, para la inspección de los mismos.
+-Solicitar información a entidades públicas y privadas sobre antecedentes, documentos, programas o cualquier elemento relativo al tratamiento de datos personales; garantizando en todo caso seguridad y confidencialidad en la información y elementos suministrados.
+-Sancionar administrativamente ante eventos de violación de las normas.
+-Constituirse querellante en las acciones penales que surgieran de la violación de esta ley.
+-Controlar el cumplimiento de requisitos y garantías que las bases de datos deben reunir.
+
+El órgano de control tiene autonomía funcional y actúa como órgano descentralizado del Ministerio de Justicia y Derechos Humanos de la Nación.
+Se designa un Director por el término de cuatro años, a través del Poder Ejecutivo y en acuerdo con el Senado; debiéndose seleccionarse entre personas con antecedentes en la materia, sin incompatibilidades en sus funciones y tendrá dedicación exclusiva en sus tareas.
+
+Subordinado a estas reglamentaciones, los responsables o usuarios de bases de datos privados pueden elaborar códigosde conducta de carácter profesional para complementar y mejorar las condiciones de operación de datos. Estos códigos deben ser inscriptos en el registro del órgano de control, quien controla que las condiciones y disposiciones legal consideradas sean suficientes.
+
+#-----------------
+Sanciones
+
+El órgano de control solo puede aplicar sanciones de tipo administrativas, que implican una multa dineraria y el posible cierre de la base de datos.
+Llegado el caso de incurrir en un delito estipulado en el código penal, las sanciones corresponden a este fuero y pueden extenderse a penas de prisión. Naturalmente, esta es jurisprudencia de los tribunales penales y no de los órganos de control incluidos en esta ley. Algunas de las acciones que pueden entenderse como competencia del fuero penal se encuentran insertar a drede datos falsos en una base de datos, insertar datos de un tercero a dicha base de datos (especialmente cuando viene a perjuicio de esa persona, y/o cuando el responsable es un funcionario público), el acceso sin credenciales correspondientes a bases de datos tras violentar voluntariamente sistemas de protección de los mismos, o revelar información proveniente de bases de datos de naturaleza confidencial.
+
+#-------------------
+Caso particular: servicios crediticios
+
+En servicios crediticios (bancarios, prestamistas, etc.) la información patrimonial a recolectar debe restringirse a aquella que tenga relevancia en la evaluación de la solvencia económica y responsabilidad crediticia, obtenida de fuentes de acceso público o del interesado mediante su consentimiento.
+Estas operaciones de cesión de datos no requieren consentimiento expreso cuando los datos se giran hacia los provedores de servicios crediticios con la verificación de solvencia como fin.
+El plazo máximo de permisividad para recolección de datos es de cinco años, vencido el plazo la información pasa a ser no incunvente. El plazo se reduce a dos años cuando el deudor cancela otra obligación anterior.
+
+#-------------------
+Caso particular: servicios de publicidad
+
+Los datos recopilados para ventas, reparto de documentos o distribución de publicidad se limitan a domicilios y datos que permitan crear perfiles con el fin de personalizar la publicidad acercada a los titulares de los datos. Los mismos deben ser obtenidos de fuentes de público acceso, o bien, deben ser proporcionados por el titular bajo su expreso consentimiento.
+El titular se resguarda el derecho a acceso en todo momento a estos datos, de forma gratuita. También puede solicitar el retiro o bloqueo de su nombre de las bases de datos que refieran a lo publicitario.
+
+#-------------------
+Caso particular: encuestas
+
+Todas lo estipulado en esta ley no tiene validez para casos de encuestas de opinión, trabajos de prospección de mercados, investigaciones científicas o médicas, o trabajos estadísticos relevados conforme a la Ley 17622 (Estadísticas y censos). En cambio, mientras los datos no puedan ser atribuidos a personas (aunque sea por disociación de datos) estos podrán ser tratados con fines estadísticos.
+
+#-----------------
+Habeas Data
+
+El Habeas Data (desde ahora HD) es una acción sumarísima de protección de datos personales, y procederá para obtener información sobre los datos registrados en bases de datos, y exigir rectificación, supresión, confidencialidad o actualización de datos que se denuncien inexactos o falsos.
+El HD es una garantía constitucional, comparte procedimientos con las dos restantes: el Habeas Corpus y el ampara. En rigor, el HD y el HC son casos particulares de acciones de amparo.
+Dicho esto, el pedido de acción de HD (como cualquier otra garantía) requiere un pedido expreso y puntual, donde se detalle (en lo posible) nombre y domicilio de la base de datos, y del responsable de la misma; a la vez que se exponen los motivos para
