@@ -1,0 +1,1 @@
+Persona (física o jurídica de orden público o privado) que asume la titularidad sobre los medios técnicos de almacenamiento de [[Dato personal|datos personales]]. 

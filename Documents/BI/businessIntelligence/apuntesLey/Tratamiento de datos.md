@@ -1,0 +1,1 @@
+Cualquier clase de procedimiento sistemático que consecuentemente provoque una acción de recolección, almacenamiento, actualización, lectura, bloqueo, supresión, cesión o cualquier otra naturaleza que implique la interacción con los [[archivos, registros, bases de datos o bancos de datos|archivos]]; o los [[dato personal|datos personales]] que estos contengan.

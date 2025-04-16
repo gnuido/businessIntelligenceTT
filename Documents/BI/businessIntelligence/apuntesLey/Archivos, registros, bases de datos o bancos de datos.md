@@ -1,0 +1,3 @@
+Grupo de datos personales organizados con el fin de disponerlos para su [[Tratamiento de datos|tratamiento]], independientemente del régimen de su formación, almacenamiento, organización o acceso. Desde ahora, y hasta el final de esta documentación, se dejará implícito que el término archivo engloba a los demás.
+
+Para la competencia de esta ley quedan incluidos los medios técnicos de orden privado (cuando los datos tengan como fin la generación de informes), o bien público. A partir de ahora queda implícita esta consideración.

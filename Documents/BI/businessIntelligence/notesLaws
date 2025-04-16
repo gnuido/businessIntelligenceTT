@@ -136,27 +136,11 @@ Estas disposiciones deben incluir, sin falta:
 #-----------------
 Control
 
-Al órgano creado para el control del régimen de datos se le atribuyen las siguientes funciones:
--Asistir y asesorar personas que requieran información sobre los alcances de esta ley y los medios legales para defender los derechos que esta garantiza.
--Dictar normas y reglamentaciones que deban observarse en el desarrollo de las actividades vinculadas.
--Censar las bases de datos alcanzadas y registrar permanentemente los mismos.
--Controlar la supervisión de la integridad y seguridad de los datos en las distintas bases de datos; pudiendo recibir autorización judicial para acceder a bases de datos, equipos, locales o programas empleados en tratamientos de datos, para la inspección de los mismos.
--Solicitar información a entidades públicas y privadas sobre antecedentes, documentos, programas o cualquier elemento relativo al tratamiento de datos personales; garantizando en todo caso seguridad y confidencialidad en la información y elementos suministrados.
--Sancionar administrativamente ante eventos de violación de las normas.
--Constituirse querellante en las acciones penales que surgieran de la violación de esta ley.
--Controlar el cumplimiento de requisitos y garantías que las bases de datos deben reunir.
-
-El órgano de control tiene autonomía funcional y actúa como órgano descentralizado del Ministerio de Justicia y Derechos Humanos de la Nación.
-Se designa un Director por el término de cuatro años, a través del Poder Ejecutivo y en acuerdo con el Senado; debiéndose seleccionarse entre personas con antecedentes en la materia, sin incompatibilidades en sus funciones y tendrá dedicación exclusiva en sus tareas.
-
-Subordinado a estas reglamentaciones, los responsables o usuarios de bases de datos privados pueden elaborar códigosde conducta de carácter profesional para complementar y mejorar las condiciones de operación de datos. Estos códigos deben ser inscriptos en el registro del órgano de control, quien controla que las condiciones y disposiciones legal consideradas sean suficientes.
-
-#-----------------
-Sanciones
-
-El órgano de control solo puede aplicar sanciones de tipo administrativas, que implican una multa dineraria y el posible cierre de la base de datos.
-Llegado el caso de incurrir en un delito estipulado en el código penal, las sanciones corresponden a este fuero y pueden extenderse a penas de prisión. Naturalmente, esta es jurisprudencia de los tribunales penales y no de los órganos de control incluidos en esta ley. Algunas de las acciones que pueden entenderse como competencia del fuero penal se encuentran insertar a drede datos falsos en una base de datos, insertar datos de un tercero a dicha base de datos (especialmente cuando viene a perjuicio de esa persona, y/o cuando el responsable es un funcionario público), el acceso sin credenciales correspondientes a bases de datos tras violentar voluntariamente sistemas de protección de los mismos, o revelar información proveniente de bases de datos de naturaleza confidencial.
-
+Se define un órgano de control a través del cual se contralorea el cumplimiento de los objetivos y otras disposiciones de la presente ley, atribuyéndosele a tal motivo las siguientes funciones y facultades:
+-Asesorar a toda persona que requiera asistencia en materia de los alcances de la ley, además de los medios legales que se ponen a su disposuciones en tal propósito.
+-Dictaminar normas y reglamentaciones para el apropiado desarrollo de sus funciones.
+-Censar bases de datos y alcanzados por la ley y mantener el registro de estos.
+-Realizar el control de las normas de integridad y seguridad de los datos almacenados en bases de datos. Se le atribuye la facultad de solicitar autorizacón judicial para ganar acceso a locales, bases de datos, equipos o programas destinados al tratamiento de datos, solo en la extensión que le requiera para llevar a cabo la verificación de los medios 
 #-------------------
 Caso particular: servicios crediticios
 
@@ -175,9 +159,4 @@ Caso particular: encuestas
 
 Todas lo estipulado en esta ley no tiene validez para casos de encuestas de opinión, trabajos de prospección de mercados, investigaciones científicas o médicas, o trabajos estadísticos relevados conforme a la Ley 17622 (Estadísticas y censos). En cambio, mientras los datos no puedan ser atribuidos a personas (aunque sea por disociación de datos) estos podrán ser tratados con fines estadísticos.
 
-#-----------------
-Habeas Data
 
-El Habeas Data (desde ahora HD) es una acción sumarísima de protección de datos personales, y procederá para obtener información sobre los datos registrados en bases de datos, y exigir rectificación, supresión, confidencialidad o actualización de datos que se denuncien inexactos o falsos.
-El HD es una garantía constitucional, comparte procedimientos con las dos restantes: el Habeas Corpus y el ampara. En rigor, el HD y el HC son casos particulares de acciones de amparo.
-Dicho esto, el pedido de acción de HD (como cualquier otra garantía) requiere un pedido expreso y puntual, donde se detalle (en lo posible) nombre y domicilio de la base de datos, y del responsable de la misma; a la vez que se exponen los motivos para
