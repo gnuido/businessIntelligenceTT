@@ -1,33 +1,19 @@
 {
   "main": {
-    "id": "8ef39ce3f6379834",
+    "id": "07add9bee8a80635",
     "type": "split",
     "children": [
       {
-        "id": "9f994829b6abdbb8",
+        "id": "2f891b240473eead",
         "type": "tabs",
         "children": [
           {
-            "id": "1bd293ff71864ac0",
+            "id": "8088a8802e395a9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tratamiento de datos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tratamiento de datos"
-            }
-          },
-          {
-            "id": "501fa4f574896e18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Derechos del titular de los datos.md",
+                "file": "Protección de datos/Derechos del titular de los datos.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,22 +21,21 @@
               "title": "Derechos del titular de los datos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "56d9e6071fe7ab58",
+    "id": "b8377bbd0434b709",
     "type": "split",
     "children": [
       {
-        "id": "9107391593105ad5",
+        "id": "8052c7ee7d6298fa",
         "type": "tabs",
         "children": [
           {
-            "id": "2919fab6e23f37bc",
+            "id": "9581a3be8969795b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "6cfec9c720b9368d",
+            "id": "15b656d0b9ddd033",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "586d3ce16fca55a1",
+            "id": "468d32f49fb65042",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 228.5124969482422
   },
   "right": {
-    "id": "d4b16baa0a185aff",
+    "id": "1ba89923fc181a60",
     "type": "split",
     "children": [
       {
-        "id": "cd31507481a73f07",
+        "id": "9cde52b986ecf4dc",
         "type": "tabs",
         "children": [
           {
-            "id": "da693051dcbcfe92",
+            "id": "79082c674dae0f07",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Derechos del titular de los datos.md",
+                "file": "Protección de datos/Derechos del titular de los datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,12 +108,12 @@
             }
           },
           {
-            "id": "ac4cdfb5994b26ab",
+            "id": "afe31b936568268a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Derechos del titular de los datos.md",
+                "file": "Protección de datos/Derechos del titular de los datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -137,7 +122,7 @@
             }
           },
           {
-            "id": "1f9ff18ddd973174",
+            "id": "83f2a88d16d0de59",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,12 +137,12 @@
             }
           },
           {
-            "id": "e553dae1ae32992b",
+            "id": "b9b4229af31ae2ec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Derechos del titular de los datos.md",
+                "file": "Protección de datos/Derechos del titular de los datos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,22 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "501fa4f574896e18",
+  "active": "8088a8802e395a9c",
   "lastOpenFiles": [
-    "Dato personal.md",
-    "Archivos, registros, bases de datos o bancos de datos.md",
     "Protección de datos/Ley 25.326.md",
+    "Archivos, registros, bases de datos o bancos de datos.md",
+    "Consentimiento.md",
+    "Dato personal.md",
     "Protección de datos/Objetivos.md",
-    "2025-04-16.md",
-    "Untitled.canvas",
     "Tratamiento de datos.md",
     "Titular de los datos personales.md",
-    "Derechos del titular de los datos.md",
-    "datos personales.md",
-    "archivo.md",
-    "tratamiento.md",
-    "Archivos",
-    "Protección de datos",
-    "create a link.md"
+    "Responsables de los archivos, registros, bases de datos o bancos de datos.md",
+    "Protección de datos/Derechos del titular de los datos.md",
+    "Protección de datos/Licitud.md",
+    "Protección de datos/Control.md"
   ]
 }
