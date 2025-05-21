@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2f891b240473eead",
+        "id": "4078536f1937bfc4",
         "type": "tabs",
         "children": [
           {
-            "id": "8088a8802e395a9c",
+            "id": "2218ef558b5570e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protección de datos/Derechos del titular de los datos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Derechos del titular de los datos"
+              "title": "New tab"
             }
           }
         ]
@@ -168,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8088a8802e395a9c",
+  "active": "2218ef558b5570e4",
   "lastOpenFiles": [
+    "Protección de datos/Derechos del titular de los datos.md",
     "Protección de datos/Ley 25.326.md",
     "Archivos, registros, bases de datos o bancos de datos.md",
     "Consentimiento.md",
@@ -178,7 +175,6 @@
     "Tratamiento de datos.md",
     "Titular de los datos personales.md",
     "Responsables de los archivos, registros, bases de datos o bancos de datos.md",
-    "Protección de datos/Derechos del titular de los datos.md",
     "Protección de datos/Licitud.md",
     "Protección de datos/Control.md"
   ]
